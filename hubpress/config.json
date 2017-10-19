@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://oVirt.github.io/devops-blog",
+    "hubpress": "https://ovirt.github.io/devops-blog",
+    "theme": "//oVirt.github.io/devops-blog/themes/casper",
+    "images": "https://oVirt.github.io/devops-blog/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
